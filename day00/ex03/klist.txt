@@ -1,0 +1,5 @@
+Credentials cache: API:4C8EEA53-C872-45A3-A4D4-15B438556C39
+        Principal: nweeks@42.FR
+
+  Issued                Expires             Flags    Principal
+Jul 31 09:55:50 2017  Aug  7 09:55:41 2017  FPIA   krbtgt/42.FR@42.FR
